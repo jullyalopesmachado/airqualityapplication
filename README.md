@@ -1,1 +1,1 @@
-# airqualityapplication
+Program uses an API connection to display details regarding air quality of different locations based on zip code input. Additionally, program also uses another API connection to display a different positivity quote every time a new zip code is entered.  
